@@ -1,0 +1,6 @@
+playwright>=1.55
+httpx>=0.28
+selectolax>=0.3.21
+phonenumbers>=8.13
+rapidfuzz>=3.9
+pytest>=8.0
